@@ -1,0 +1,37 @@
+/*
+
+Theme Name: Cleopatra
+
+Theme URI: http://knowlicle.com/
+
+Author: The Knowlicle Team
+
+Author URI: http://knowlicle.com/
+
+Description: Knowlicle is a premier professional Website Design, Multimedia Presentation, Animation, Software Application, and Development Company which ensures that you get the best in web & software solutions at the least cost. A market leader in delivering IT based services and applications; nLogica is your answer to high end website design, application development and maintenance at economical rates.
+
+Version: 1.4
+
+License: GNU General Public License v2 or later
+
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Tags: black, blue, gray, pink, purple, white, yellow, dark, light, two-columns, left-sidebar, fixed-layout, responsive-layout, accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready
+
+Text Domain: twentyfifteen
+
+
+
+This theme, like WordPress, is licensed under the GPL.
+
+Use it to make something cool, have fun, and share what you've learned with others.
+
+*/
+.booking_container{padding:40px 0;}
+.Booking_content{ border:1px solid #fff; border-radius:5px;}
+.Booking_content .col{ padding:0px;}
+.Booking_content h5{margin-bottom:0px; background:#000; padding:10px 5px; color:#fff; text-transform:uppercase;}
+.amazingslider-slider-0 { margin-left: 0px !important;  border-width: 0px !important;}
+
+
+

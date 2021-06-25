@@ -1,0 +1,4 @@
+[20-May-2021 19:22:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_basename() in /home/mf1n2dsw2bf8/public_html/maharajatravels.in/wp-content/plugins/contact-form-7/wp-contact-form-7.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mf1n2dsw2bf8/public_html/maharajatravels.in/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19

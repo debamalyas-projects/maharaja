@@ -1,0 +1,14 @@
+<link rel="stylesheet" href="{pagination_css}" />
+<script src="{pagination_js}"></script>
+<style>
+nav.paginate-pagination {background-color: transparent !important;} 
+a.page {color: #000 !important;}
+</style>
+<div class="rows" id="example">
+                                        {content}
+
+				</div>
+<script>
+	//call paginate
+	jQuery('#example').paginate();
+</script>
